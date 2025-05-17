@@ -150,7 +150,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git
+$ git clone https://github.com/sumanthreddy0127/Biometric_Authentication-System.git
 
 # Go into the repository
 $ cd BiometricAuthenticationSystem
@@ -215,9 +215,9 @@ $ * Running on http://127.0.0.1:5000/
 
 ## Contact
 
-Alexis Rodriguez - [LinkedIn](https://www.linkedin.com/in/alexisrodriguezcs/) - alexisrodriguezdev@gmail.com
+SumanthReddy - [LinkedIn](https://www.linkedin.com/in/sumanth-reddy0127/) - sumanth.uf51@gmail.com
 
-Project Link: [https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git](https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git)
+Project Link: [https://github.com/sumanthreddy0127/Biometric_Authentication-System.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
